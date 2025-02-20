@@ -1,0 +1,18 @@
+{
+    "id": "aeba97bDemographicb",
+    "stepAnswer": [
+        "Female"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Please indicate your gender.",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Female",
+        "Male",
+        "Non-binary",
+        "Other",
+        "No response"
+    ]
+}
